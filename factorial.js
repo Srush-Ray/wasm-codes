@@ -18,7 +18,7 @@ function factorialJS(n) {
     }
     return result;
 }
-test_numbers=[50];
+test_numbers=[60];
 num_tests=test_numbers.length;
 for (let i = 0; i < num_tests; i++) {
     const num = test_numbers[i];

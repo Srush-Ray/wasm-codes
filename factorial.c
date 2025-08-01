@@ -19,7 +19,7 @@ long long factorialC(int n) {
 int main() {
     int num;
     long long result;
-    int test_numbers[] = {50}; 
+    int test_numbers[] = {60}; 
     int num_tests = sizeof(test_numbers) / sizeof(test_numbers[0]);
     // Record start time
     clock_t start_time = clock();

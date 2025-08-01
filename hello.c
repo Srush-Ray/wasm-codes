@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Hello JSLovers!\n");
+    printf("Hello Javascript lovers!\n");
     fflush(stdout);
     return 0;
 }
